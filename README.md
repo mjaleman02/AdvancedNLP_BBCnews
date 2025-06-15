@@ -3,7 +3,7 @@
 
 ## Summary
 
-This project explores automatic topic tagging of news media using the BBC News dataset as a real-world test environment. The dataset comprises well-sorted articles from five main categories—business, entertainment, politics, sport, and tech—yielding a neat, balanced corpus most ideal for examining both foundational and advanced text classification techniques. Through a controlled pipeline, the project evaluates model performance at a variety of steps from rule-based baselines to transformer models and data-efficient learning methods. In so doing, it aims to demonstrate how natural language processing resources are capable of extracting meaningful topical structure from raw text and how different approaches compare under different levels of supervision and computational constraint.
+This project explores automatic topic tagging of news media using the BBC News dataset as a real-world test environment. The dataset comprises well-sorted articles from five main categories—business, entertainment, politics, sport, and tech—yielding a neat, balanced corpus most ideal for examining both foundational and advanced text classification techniques. Through a controlled pipeline, the project evaluates model performance at a variety of steps from rule-based baselines to transformer models and data-efficient learning methods. In doing so, it aims to demonstrate how natural language processing resources are capable of extracting meaningful topical structure from raw text and how different approaches compare under different levels of supervision and computational constraint.
 
 
 ## Objective
