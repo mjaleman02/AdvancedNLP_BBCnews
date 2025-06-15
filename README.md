@@ -1,4 +1,5 @@
-# AdvancedNLP - BBCnews Final Project
+# Label-Efficient Text Classification on the BBC News Dataset: A Comparative Study of Rule-Based, Transformer, and Distilled Models
+# Advanced Methods in Natural Language Processing Final Assessment
 
 ## Summary
 
