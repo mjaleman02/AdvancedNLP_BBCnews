@@ -10,7 +10,7 @@ This project explores automatic topic tagging of news media using the BBC News d
 The objective of this project is to assess how well various classification models can learn to classify BBC News articles into five topically distinct classes: business, entertainment, politics, sport, and tech. Through a range of techniques—from rule-based heuristics to modern transformer-based models—this project will examine which methods perform best under different levels of supervision, including very low-label conditions. The BBC News dataset provides a decently balanced but realistic configuration to test the performance of different models with nuance in language, overlap in topics, and semantic difference across domains. Ultimately, the project intends to shed light not just on what models do best, but on what patterns in the text they end up learning, where they fail, and how well they generalize to new or underrepresented data.
 
 
-### Repository Structure:
+## Repository Structure
 ```bash
 AdvancedNLP_BBCnews/ 
 ├── NLPfinal_bbcnews_parts1and2.ipynb # Part 0, Part 1: Setup & Baselines, & Part 2: Label-Efficient Learning
@@ -23,7 +23,7 @@ AdvancedNLP_BBCnews/
 ```
 
 
-### Structure of notebooks:
+## Structure of notebooks
 
 - Within [`NLPfinal_bbcnews_parts1and2.ipynb`](./NLPfinal_bbcnews_parts1and2.ipynb):
     - Part 0: Dataset Selection
@@ -35,11 +35,11 @@ AdvancedNLP_BBCnews/
     - Part 4: Model Distillation/Quantization
 
 
-### Dependencies:
+## Dependencies
 See [`requirements.txt`](./requirements.txt) for tested versions. A separate file, [`requirements_part3and4.txt`](./requirements_part3and4.txt), is included for Part 3 & 4 notebook if library conflicts arise.
 
 
-### Dataset:
+## Dataset
 
 - Source: [BBC News (SetFit)](https://huggingface.co/datasets/SetFit/bbc-news)
 - Size: 2,225 total articles
@@ -47,7 +47,7 @@ See [`requirements.txt`](./requirements.txt) for tested versions. A separate fil
 - Format: `text`, `label`, `label_text`
 
 
-### Authors
+## Authors
 - Tarang Kadyan
 - Soledad Monge
 - Marta Sala 
