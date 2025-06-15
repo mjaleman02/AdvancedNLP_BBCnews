@@ -11,14 +11,14 @@ The objective of this project is to assess how well various classification model
 
 
 ### Repository Structure:
-AdvancedNLP_BBCnews/
-├── NLPfinal_bbcnews_parts1and2.ipynb       # Part 1: Setup & Baselines & Part 2: Label-Efficient Learning
-├── nlpfinal-bbcnews-part3_part4.ipynb      # Part 3: Full Training & SOA & Part 4: Distillation
-├── requirements.txt                        # Final environment dependencies
-├── requirements_part3and4.txt              # Alternate setup for Part 3 & 4 notebook
-├── README.md                               # Project documentation and summary
-├── LICENSE                                 # MIT License
-├── .gitignore                              
+AdvancedNLP_BBCnews/ 
+├── NLPfinal_bbcnews_parts1and2.ipynb # Part 0, Part 1: Setup & Baselines, & Part 2: Label-Efficient Learning
+├── nlpfinal-bbcnews-part3_part4.ipynb # Part 3: Full Training & SOA & Part 4: Distillation
+├── requirements.txt # Environment dependencies
+├── requirements_part3and4.txt # Alternate dependencies for Part 3 & 4 notebook
+├── README.md # Project documentation and summary
+├── LICENSE # MIT License
+├── .gitignore
 
 
 ### Structure of notebooks:
